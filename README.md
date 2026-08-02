@@ -15,7 +15,6 @@ Check out **WebDestroy** in action:
 | :---: | :---: |
 | ![Preview 1](screenshots/preview1.png) | ![Preview 2](screenshots/preview2.png) |
 
-*(Place your preview images in the `screenshots/` directory!)*
 
 ---
 
